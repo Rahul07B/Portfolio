@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/portfolio)
@@ -52,3 +53,7 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 ### License
 
 This project is **free to use** and does not contains any license.
+=======
+# portfolio
+This is my portfolio
+>>>>>>> d2aae4ae4666176a4080a9fa3d5a72f4daae37b3
